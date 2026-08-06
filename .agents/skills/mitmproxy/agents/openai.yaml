@@ -1,0 +1,6 @@
+interface:
+  display_name: "Mitmproxy"
+  short_description: "Repo-specific patterns and workflows for mitmproxy"
+  default_prompt: "Use the mitmproxy repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
